@@ -15,9 +15,9 @@
 <body>
     <form action="validar.php" method="post" class="app">
 
-        <h1 style="color: #17da9f;">Login Tareas</h1> <br>
-        <div style="text-align: center;">
-            <img src="" style="color: White;" height="100">
+        <h1 style="color: #000000;">Login Tareas</h1> <br>
+        <div style="text-align: left;">
+            <img src="img\user.jpg" style="color: White;" height="100">
         </div>
 
         <label for=""></label>
